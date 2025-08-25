@@ -1,0 +1,7 @@
+# requirements.txt
+streamlit
+pandas
+plotly==5.15.0
+scikit-learn
+xgboost
+pyarrow
